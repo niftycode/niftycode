@@ -8,7 +8,9 @@ I'm Bodo Schönfeld
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niftycode&count_private=true)
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niftycode&theme=vue)](https://git.io/streak-stats)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
