@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm niftycode
+I'm Bodo Schönfeld
 
 - 🔭 I’m currently working on different Swift & Python projects
 - 🌱 I’m currently learning SwiftUI
