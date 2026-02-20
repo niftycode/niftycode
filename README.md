@@ -6,8 +6,6 @@ I'm Bodo Schönfeld
 - 💬 Ask me about anything related to Swift/Python/Linux/macOS
 - 📫 How to reach me: bodo.schoenfeld@niftycode.de
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niftycode&count_private=true)
-
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niftycode&theme=vue)](https://git.io/streak-stats)
 -->
